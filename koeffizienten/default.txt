@@ -1,0 +1,2 @@
+#This is the auxiliary file creating hydrogenic Cu2O solutions
+1.00
